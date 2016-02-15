@@ -8,6 +8,7 @@ Move  *.dll to $impnonjs$\plugins\
 ####-> fork this.
 ####-> Refer to *\Sample\Code\s.cpp.
 NOTE current impnonjs only supports MSVC Exported DLL function symbols Mode.
+NOTE vibration is invalid in Lost Window Event.
 ####-> commit your DLL plugin & your infomation.
 ####-> push this.
 
